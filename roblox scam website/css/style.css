@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header-bar {
+  
+    height: 30pt;
+    display: flex;
+    flex-direction: row;
+}
+
+.won:hover {
+    cursor: pointer;
+}
+
+.an:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.select:hover {
+    background-color: rgb(0, 138, 48);
+    cursor: pointer;
+}
+
+.lol {
+    background-color: lightgreen;
+}
+
+.robux-holder {
+    
+    position:absolute;
+top: 50%;
+left: 14%;
+
+width: 790pt;
+height: 500pt;
+}
+
+.yolooo:hover {
+width: 200pt;
+    cursor: pointer;
+}
+
+
+.ayy {
+    position: absolute; right:14%; top:7%; width: 150pt; height: 50pt; border: 1px solid green; border-radius: 5px; color: white; background-color: rgb(0, 162, 11);
+}
+
+.yomum {
+    width: 150pt; height: 50pt; background-color: rgb(0,162,11); border-radius: 5px; border: 1px solid green; color: white;  position: absolute; right:14%; top:27%;
+}
+
+
+.mum {
+    width: 150pt; height: 50pt; background-color: rgb(0,162,11); border-radius: 5px; border: 1px solid green; color: white;  position: absolute; right:14%; top:47%;
+}
+
+.mons {
+    width: 150pt; height: 50pt; background-color: rgb(0,162,11); border-radius: 5px; border: 1px solid green; color: white;  position: absolute; right:14%; top:67%;
+}
+
+.passwordbox {
+    border: 2px solid black;
+    width: 250pt;
+    height: 200pt;
+    position: absolute;
+    left: 39%;
+    top: 30%;
+    background-color: rgb(56,56,56);
+    color: white;
+    border-radius: 5px;
+}
+
+.prohibit {
+    width: 1400pt;
+    height: 900pt;
+    background-color: black;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+
+}
